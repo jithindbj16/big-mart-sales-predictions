@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Outputs / figures
+figures/
+*.pdf
+*.cbm
+submissions*.csv
